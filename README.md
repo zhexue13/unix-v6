@@ -1,2 +1,2 @@
-# UNX V6
+# UNIX V6
 machine: PDP11
